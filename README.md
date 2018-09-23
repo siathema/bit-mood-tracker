@@ -1,2 +1,2 @@
 # bit-mood-tracker
-Quatified self tracker
+Quantified self tracker
